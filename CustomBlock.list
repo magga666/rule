@@ -1,0 +1,11 @@
+# 广告关键词
+DOMAIN-SUFFIX,baidu.com
+
+DOMAIN-SUFFIX,bilibili.com
+# DOMAIN-SUFFIX,hdslb.com
+# DOMAIN-SUFFIX,grpc.biliapi.net
+DOMAIN-SUFFIX,dataflow.biliapi.com
+# IP-CIDR,39.174.254.50/32
+
+
+
